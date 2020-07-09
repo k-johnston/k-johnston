@@ -2,5 +2,5 @@
 
 - Pronouns: she/her
 - I use my Github for: learning front-end dev
-- What I'm interested in: making interactive books, digital publishing, UX, books, travel
+- What I'm interested in: making interactive books, digital publishing, UX, reading, travel
 - Currently learning: JavaScript and German
